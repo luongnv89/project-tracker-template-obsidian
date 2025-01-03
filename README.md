@@ -25,7 +25,7 @@ Welcome to the **Project Tracker** template for Obsidian! This template is desig
 
 ### **Folder & File Structure Overview**
 ```
-Project/
+📂 Project/
 │
 ├── 1. Idea & Research/
 │   ├── 01-Problem Definition.md
@@ -48,6 +48,27 @@ Project/
 │   ├── 01-Sprint Backlog.md
 │   ├── 02-Roadmap.md
 │   └── 03-Environment Setup.md
+│
+├── 5. Development (MVP)/
+│   ├── 01-Backend.md
+│   ├── 02-Frontend.md
+│   ├── 03-Testing.md
+│   └── 04-Integrations.md
+│
+├── 6. Testing & Feedback/
+│   ├── 01-Bug Reports.md
+│   ├── 02-Beta Feedback.md
+│   └── 03-Performance Tests.md
+│
+├── 7. Launch/
+│   ├── 01-Release Notes.md
+│   ├── 02-Marketing Plan.md
+│   └── 03-Deployment Checklist.md
+│
+├── 8. Post-Launch/
+│   ├── 01-Monitoring.md
+│   ├── 02-Feature Roadmap.md
+│   └── 03-Analytics.md
 │
 └── Project Overview.md
 ```
